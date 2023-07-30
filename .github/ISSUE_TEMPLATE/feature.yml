@@ -1,5 +1,5 @@
 name: "新功能/New feature"
-description: "对已有功能的大幅度修改，或添加一个新内容或选项。/Significant modifications to existing features or addition of a new content or option."
+description: "添加一个新内容或选项。/Significant modifications to existing features or addition of a new content or option."
 labels: [新功能/new feature, 新反馈/new issue]
 body:
 - type: checkboxes
